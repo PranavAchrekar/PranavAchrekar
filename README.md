@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Django Framework!
 
 ---------------------------------------------------
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 
 <!--
 **PranavAchrekar/PranavAchrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
