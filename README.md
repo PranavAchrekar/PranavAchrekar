@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Django Framework!
+
+---------------------------------------------------
+TechStack
+
 <!--
 **PranavAchrekar/PranavAchrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
