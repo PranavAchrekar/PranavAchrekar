@@ -5,6 +5,7 @@
 ---------------------------------------------------
 TechStack
 
+https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
 <!--
 **PranavAchrekar/PranavAchrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
