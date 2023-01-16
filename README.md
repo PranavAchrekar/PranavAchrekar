@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Django Framework!
 
 ---------------------------------------------------
-[![Python 3.9](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+[![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 
 <!--
