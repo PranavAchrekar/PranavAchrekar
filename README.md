@@ -25,8 +25,9 @@ TECH STACK
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 ----------------------------------------------------------------------------------------------------------------------------------
-**[![trophy](https://github-profile-trophy.vercel.app/?username=PranavAchrekar)](https://github.com/PranavAchrekar/github-profile-trophy)**
-
+<!--
+**[![trophy](https://github-profile-trophy.vercel.app/?username=PranavAchrekar)](https://github.com/PranavAchrekar/github-profile-trophy)
+-->
 
 <!--
 **PranavAchrekar/PranavAchrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
