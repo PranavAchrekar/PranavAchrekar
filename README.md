@@ -28,6 +28,7 @@ TECH STACK
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavAchrekar&layout=compact)](https://github.com/PranavAchrekar/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavAchrekar)](https://github.com/PranavAchrekar/github-readme-stats)
 <!--
 **[![trophy](https://github-profile-trophy.vercel.app/?username=PranavAchrekar)](https://github.com/PranavAchrekar/github-profile-trophy)
 -->
